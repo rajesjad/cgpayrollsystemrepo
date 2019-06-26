@@ -6,6 +6,7 @@ public class MainClass {
 		// TODO Auto-generated method stub
  int num=100;
  Integer iob=num;
+ int j=0;
  System.out.println(iob);
  System.out.println(num);
  
